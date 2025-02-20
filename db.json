@@ -1,0 +1,172 @@
+{
+  "contact": [
+    {
+      "id": 1,
+      "name": "Muhammed Fatih Karaaslan",
+      "position": "FullStack Developer",
+      "company": "Google",
+      "phone": "+90 555 444 33 22",
+      "email": "fatihkaraaslantr@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Ayşe Yılmaz",
+      "position": "Frontend Developer",
+      "company": "Microsoft",
+      "phone": "+90 532 111 22 33",
+      "email": "ayseyilmaz@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Mehmet Demir",
+      "position": "Backend Developer",
+      "company": "Amazon",
+      "phone": "+90 533 222 33 44",
+      "email": "mehmetdemir@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Zeynep Kaya",
+      "position": "UI/UX Designer",
+      "company": "Adobe",
+      "phone": "+90 534 333 44 55",
+      "email": "zeynepkaya@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Ali Çelik",
+      "position": "Data Scientist",
+      "company": "Tesla",
+      "phone": "+90 535 444 55 66",
+      "email": "alicelik@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Elif Özkan",
+      "position": "Software Engineer",
+      "company": "Facebook",
+      "phone": "+90 536 555 66 77",
+      "email": "elifozkan@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Hasan Aksoy",
+      "position": "DevOps Engineer",
+      "company": "IBM",
+      "phone": "+90 537 666 77 88",
+      "email": "hasanaksoy@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Burcu Yıldırım",
+      "position": "Cyber Security Analyst",
+      "company": "Cisco",
+      "phone": "+90 538 777 88 99",
+      "email": "burcuyildirim@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Emre Karaca",
+      "position": "Machine Learning Engineer",
+      "company": "Netflix",
+      "phone": "+90 539 888 99 00",
+      "email": "emrekaraca@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Gamze Şahin",
+      "position": "Cloud Architect",
+      "company": "Oracle",
+      "phone": "+90 540 999 00 11",
+      "email": "gamzesahin@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Hakan Taş",
+      "position": "FullStack Developer",
+      "company": "Twitter",
+      "phone": "+90 541 111 22 33",
+      "email": "hakantas@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "Selin Kurt",
+      "position": "Product Manager",
+      "company": "LinkedIn",
+      "phone": "+90 542 222 33 44",
+      "email": "selinkurt@gmail.com"
+    },
+    {
+      "id": 13,
+      "name": "Cem Doğan",
+      "position": "Game Developer",
+      "company": "Unity",
+      "phone": "+90 543 333 44 55",
+      "email": "cemdogan@gmail.com"
+    },
+    {
+      "id": 14,
+      "name": "Ebru Aslan",
+      "position": "AI Researcher",
+      "company": "OpenAI",
+      "phone": "+90 544 444 55 66",
+      "email": "ebruaslan@gmail.com"
+    },
+    {
+      "id": 15,
+      "name": "Murat Özdemir",
+      "position": "Blockchain Developer",
+      "company": "Binance",
+      "phone": "+90 545 555 66 77",
+      "email": "muratozdemir@gmail.com"
+    },
+    {
+      "id": 16,
+      "name": "Derya Koç",
+      "position": "Embedded Systems Engineer",
+      "company": "Intel",
+      "phone": "+90 546 666 77 88",
+      "email": "deryakoc@gmail.com"
+    },
+    {
+      "id": 17,
+      "name": "Okan Uçar",
+      "position": "Software Architect",
+      "company": "SAP",
+      "phone": "+90 547 777 88 99",
+      "email": "okanucar@gmail.com"
+    },
+    {
+      "id": 18,
+      "name": "Büşra Kılıç",
+      "position": "Mobile Developer",
+      "company": "Samsung",
+      "phone": "+90 548 888 99 00",
+      "email": "busrakilic@gmail.com"
+    },
+    {
+      "id": 19,
+      "name": "Tolga Yavuz",
+      "position": "Network Engineer",
+      "company": "Huawei",
+      "phone": "+90 549 999 00 11",
+      "email": "tolgayavuz@gmail.com"
+    },
+    {
+      "id": 20,
+      "name": "Ezgi Çınar",
+      "position": "Database Administrator",
+      "company": "Oracle",
+      "phone": "+90 550 111 22 33",
+      "email": "ezgicinar@gmail.com"
+    },
+    {
+      "id": 21,
+      "name": "Ferhat Güneş",
+      "position": "IT Consultant",
+      "company": "Deloitte",
+      "phone": "+90 551 222 33 44",
+      "email": "ferhatgunes@gmail.com"
+    }
+  ]
+}
