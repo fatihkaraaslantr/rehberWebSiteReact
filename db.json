@@ -121,28 +121,20 @@
       "email": "muratozdemir@gmail.com"
     },
     {
-      "id": 16,
-      "name": "Derya Koç",
-      "position": "Embedded Systems Engineer",
-      "company": "Intel",
+      "name": "mehmet can seyhan",
+      "position": "fullstack developer",
+      "company": "udemig",
       "phone": "+90 546 666 77 88",
-      "email": "deryakoc@gmail.com"
-    },
-    {
-      "id": 17,
-      "name": "Okan Uçar",
-      "position": "Software Architect",
-      "company": "SAP",
-      "phone": "+90 547 777 88 99",
-      "email": "okanucar@gmail.com"
+      "email": "seyhan@gmail.com",
+      "id": 16
     },
     {
       "name": "mehmet tuna arikaya",
       "position": "fullstack developer",
-      "company": "google",
+      "company": "amazon",
       "phone": "05377342254",
       "email": "tuna@gmail.com",
-      "id": 19
+      "id": 17
     }
   ]
 }
