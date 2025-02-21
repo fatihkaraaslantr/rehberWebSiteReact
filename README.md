@@ -6,6 +6,7 @@ Bu proje, kişisel bilgilerin saklandığı ve yönetildiği bir rehber uygulama
 
 • 🗂 JSON Server ile Backend Simülasyonu
 • 🔄 Kişi Ekleme, Silme ve Güncelleme İşlemleri
+• 🔍 Kişi Arama Özelliği
 • ⚡ Axios ile API’dan Veri Çekme ve Yönetme
 • 🎨 React Component Yapıları ile Dinamik Kart Gösterimi
 • 📡 Gerçek Zamanlı Veri Güncellenmesi

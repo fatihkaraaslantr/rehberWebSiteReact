@@ -137,36 +137,12 @@
       "email": "okanucar@gmail.com"
     },
     {
-      "id": 18,
-      "name": "Büşra Kılıç",
-      "position": "Mobile Developer",
-      "company": "Samsung",
-      "phone": "+90 548 888 99 00",
-      "email": "busrakilic@gmail.com"
-    },
-    {
-      "id": 19,
-      "name": "Tolga Yavuz",
-      "position": "Network Engineer",
-      "company": "Huawei",
-      "phone": "+90 549 999 00 11",
-      "email": "tolgayavuz@gmail.com"
-    },
-    {
-      "id": 20,
-      "name": "Ezgi Çınar",
-      "position": "Database Administrator",
-      "company": "Oracle",
-      "phone": "+90 550 111 22 33",
-      "email": "ezgicinar@gmail.com"
-    },
-    {
-      "id": 21,
-      "name": "Ferhat Güneş",
-      "position": "IT Consultant",
-      "company": "Deloitte",
-      "phone": "+90 551 222 33 44",
-      "email": "ferhatgunes@gmail.com"
+      "name": "mehmet tuna arikaya",
+      "position": "fullstack developer",
+      "company": "google",
+      "phone": "05377342254",
+      "email": "tuna@gmail.com",
+      "id": 19
     }
   ]
 }
