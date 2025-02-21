@@ -21,7 +21,7 @@ Bu proje, kişisel bilgilerin saklandığı ve yönetildiği bir rehber uygulama
 <h6>🎯 Deneyimler:</h6>
 
 🧠 Bu proje, React ekosistemine olan hakimiyetimi önemli ölçüde artırdı.
-Component bazlı düşünme, useState ve useRef kullanımı, props ile veri yönetimi ve Axios ile API işlemleri konularında derinlemesine deneyim kazandım. Ayrıca, veri yönetimi ve senkronizasyon konularında pratiğimi geliştirerek, React’in dinamik yapısını daha iyi anlama fırsatı buldum.
+Component bazlı düşünme, useState, useEffect ve useRef kullanımı, props ile veri yönetimi ve Axios ile API işlemleri konularında derinlemesine deneyim kazandım. Ayrıca, veri yönetimi ve senkronizasyon konularında pratiğimi geliştirerek, React’in dinamik yapısını daha iyi anlama fırsatı buldum.
 
 <h1>🎬 Ekran Görüntüsü</h1>
 
