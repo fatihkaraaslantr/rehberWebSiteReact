@@ -5,18 +5,27 @@ Bu proje, kişisel bilgilerin saklandığı ve yönetildiği bir rehber uygulama
 <h2>📦 Proje Özellikleri:</h2>
 
 -🗂 JSON Server ile Backend Simülasyonu
+
 -🔄 Kişi Ekleme, Silme ve Güncelleme İşlemleri
+
 -🔍 Kişi Arama Özelliği
+
 -⚡ Axios ile API’dan Veri Çekme ve Yönetme
+
 -🎨 React Component Yapıları ile Dinamik Kart Gösterimi
+
 -📡 Gerçek Zamanlı Veri Güncellenmesi
+
 -📱 Responsive Tasarım
 
 <h2>🛠️ Kullanılan Teknolojiler:</h2>
 
 -React Component yapıları ve state yönetimi için
+
 -📡 Axios API isteklerini yönetmek için
+
 -💾 JSON Server Backend ihtiyacını karşılamak için
+
 -🎨 SCSS Modern ve responsive bir tasarım için
 
 <h6>🎯 Deneyimler:</h6>
